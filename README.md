@@ -17,7 +17,7 @@ A collection of websites, github repos and subreddits that after seeing for the 
 
 ### Subreddits
 
-- [/r/EDC](http://www.reddit.com/r/EDC)
+- [/r/EDC](http://www.reddit.com/r/EDC) (Everyday Carry)
 - [/r/HipHopHeads](http://www.reddit.com/r/hiphopheads)
 
 ### Facebook Groups
