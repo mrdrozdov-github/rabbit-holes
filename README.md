@@ -4,6 +4,7 @@ A collection of websites, github repos and subreddits that after seeing for the 
 
 ### Websites
 
+- [the jargon file](http://www.catb.org/jargon/html/)
 - [Recurse Center](https://www.recurse.com/)
 - [The Setup](http://usesthis.com/)
 - [Less Wrong](http://lesswrong.com/)
