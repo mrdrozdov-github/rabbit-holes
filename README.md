@@ -7,6 +7,8 @@ A collection of websites, github repos and subreddits that after seeing for the 
 - [Recurse Center](https://www.recurse.com/)
 - [The Setup](http://usesthis.com/)
 - [Less Wrong](http://lesswrong.com/)
+- [The November Project](http://november-project.com/)
+- [DIYBookScanner](http://www.diybookscanner.org/)
 
 ### Github Repos
 
