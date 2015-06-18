@@ -4,6 +4,7 @@ A collection of websites, github repos and subreddits that after seeing for the 
 
 ### Websites
 
+- [DC Rainmaker](http://www.dcrainmaker.com/)
 - [The Jargon File](http://www.catb.org/jargon/html/)
 - [Recurse Center](https://www.recurse.com/)
 - [The Setup](http://usesthis.com/)
