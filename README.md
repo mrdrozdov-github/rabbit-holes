@@ -1,10 +1,12 @@
-## Rabit Holes
+## Rabbit Holes
 
 A collection of websites, github repos and subreddits that after seeing for the first time you find yourself thinking "How deep does this rabbit hole go?".
 
 ### Websites
 
 - [DC Rainmaker](http://www.dcrainmaker.com/)
+- [Super Dimension Fortress](http://sdf.org/)
+- [SCP Foundation](http://www.scp-wiki.net/)
 - [The Jargon File](http://www.catb.org/jargon/html/)
 - [Recurse Center](https://www.recurse.com/)
 - [The Setup](http://usesthis.com/)
