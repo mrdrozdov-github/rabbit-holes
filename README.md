@@ -17,6 +17,7 @@ A collection of websites, GitHub repos and Subreddits that after seeing for the 
 ### GitHub Repos
 
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+- [Awesome Datascience](https://github.com/okulbilisim/awesome-datascience)
 - [Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi)
 - [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
