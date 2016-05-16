@@ -24,7 +24,7 @@ A collection of websites, GitHub repos and Subreddits that after seeing for the 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
-## Blogs
+### Blogs
 
 - [Scott Aaronson](http://www.scottaaronson.com/blog/)
 
